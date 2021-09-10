@@ -13,7 +13,7 @@
 ---- # 3. Select voltage sensor input                                                                         #
 ---- # 4. Select amount of Lipo cells used. 								      #
 ---- # 5. Create new telemetry sensor with id 0310 - accurate value 0.00 precision in Volts                   #
----- # 6. Create new telemetry sensor with id 0311 - rounded down value with 0.0 precision for speach	      #
+---- # 6. Create new telemetry sensor with id 0311 - rounded down value with 0.0 precision for speech	      #
 ---- #                                                                                                        #
 ---- # License GPLv3: http://www.gnu.org/licenses/gpl-3.0.html                                                #
 ---- #                                                                                                        #
