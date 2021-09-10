@@ -1,9 +1,9 @@
 ---- ##########################################################################################################
 ---- #                                                                                                        #
----- # Voltage per cell script by Kacper Nowak			                                                        #
+---- # Voltage per cell script by Kacper Nowak			                                              #
 ---- #                                                                                                        #
----- # Tested with Crossfire BatRX						                                                           #
----- # Based on scripts found on the Internet		                                                           #
+---- # Tested with Crossfire BatRX						                              #
+---- # Based on scripts found on the Internet		                                                      #
 ---- #                                                                                                        #
 ---- #                                                                                                        #
 ---- # Usage:                                                                                                 #
@@ -11,9 +11,9 @@
 ---- # 1. Copy script file to SDCard location : SCRIPTS/MIXES                                                 #
 ---- # 2. Add custom lua script                                                                               #
 ---- # 3. Select voltage sensor input                                                                         #
----- # 4. Select amount of Lipo cells used. 								                                            #
+---- # 4. Select amount of Lipo cells used. 								      #
 ---- # 5. Create new telemetry sensor with id 0310 - accurate value 0.00 precision in Volts                   #
----- # 6. Create new telemetry sensor with id 0311 - rounded down value with 0.0 precision for speach	        #
+---- # 6. Create new telemetry sensor with id 0311 - rounded down value with 0.0 precision for speach	      #
 ---- #                                                                                                        #
 ---- # License GPLv3: http://www.gnu.org/licenses/gpl-3.0.html                                                #
 ---- #                                                                                                        #
